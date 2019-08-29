@@ -1,0 +1,1 @@
+web: gunicorn heroku_app_new:app
