@@ -24,7 +24,7 @@ numpy==1.17.1
 oauthlib==3.1.0
 pandas==0.25.1
 patsy==0.5.1
-Pillow==6.1.0
+Pillow==9.3.0
 plac==0.9.6
 preshed==2.0.1
 py-openaq==1.1.0
